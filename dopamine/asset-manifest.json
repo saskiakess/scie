@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/scie/dopamine/static/css/main.f8610f8c.chunk.css",
+    "main.js": "/scie/dopamine/static/js/main.555c4e9f.chunk.js",
+    "runtime-main.js": "/scie/dopamine/static/js/runtime-main.ecbfbb29.js",
+    "static/js/2.c76b525c.chunk.js": "/scie/dopamine/static/js/2.c76b525c.chunk.js",
+    "index.html": "/scie/dopamine/index.html",
+    "static/js/2.c76b525c.chunk.js.LICENSE.txt": "/scie/dopamine/static/js/2.c76b525c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ecbfbb29.js",
+    "static/js/2.c76b525c.chunk.js",
+    "static/css/main.f8610f8c.chunk.css",
+    "static/js/main.555c4e9f.chunk.js"
+  ]
+}
