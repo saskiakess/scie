@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/scie/lupins/static/css/main.f8610f8c.chunk.css",
+    "main.js": "/scie/lupins/static/js/main.555c4e9f.chunk.js",
+    "runtime-main.js": "/scie/lupins/static/js/runtime-main.9069b064.js",
+    "static/js/2.c76b525c.chunk.js": "/scie/lupins/static/js/2.c76b525c.chunk.js",
+    "index.html": "/scie/lupins/index.html",
+    "static/js/2.c76b525c.chunk.js.LICENSE.txt": "/scie/lupins/static/js/2.c76b525c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9069b064.js",
+    "static/js/2.c76b525c.chunk.js",
+    "static/css/main.f8610f8c.chunk.css",
+    "static/js/main.555c4e9f.chunk.js"
+  ]
+}
